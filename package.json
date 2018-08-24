@@ -1,6 +1,6 @@
 {
   "name": "leaflet-area-select-npm",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "description": "Forked Leaflet plugin for letting users select an area of the map using a rectangle, and get the bounding box of Heyman",
   "main": "./dist/leaflet-areaselect.js",
