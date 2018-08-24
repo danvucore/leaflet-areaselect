@@ -6,9 +6,5 @@
   "description": "Forked Leaflet plugin for letting users select an area of the map using a rectangle, and get the bounding box of Heyman",
   "main": "src/leaflet-areaselect.js",
   "dependencies": {},
-  "devDependencies": {},
-  "browserslist": [
-    "> 1%",
-    "last 2 versions"
-  ]
+  "devDependencies": {}
 }
